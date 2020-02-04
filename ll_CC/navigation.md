@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](simplex)
 
 
 <!--
@@ -20,7 +20,7 @@
   -->
 
 [News](pages/news.md)
-[Download](pages/download.md)
+[Roster](pages/roster.md)
 
 [Staff]()
 

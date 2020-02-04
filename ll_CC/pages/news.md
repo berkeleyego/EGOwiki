@@ -23,6 +23,7 @@
 
 #### Standing Suljanggu Practice
 - Instructed by Monica Lee
+- Members: Harold Cha, Kiernynn Granthum-Crum
 
 #### Sitting Suljanggu Practice
 - Instrcuted by Sung Wan Huh
