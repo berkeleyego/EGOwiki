@@ -24,20 +24,14 @@
 
 [Menu Item 1]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * # Directors
+  * [Community](pages/community_director.md)
+  * [Music](pages/music_director.md)
+  * [Recruitment](pages/recruitment_director.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
-
-[Menu Item 2](pages/item2.md)
-
-[Menu Item 3](pages/item3.md)
-
+  * # Staff
+  * [Finance](pages/finance.md)
+  * [Performance Coordinator](pages/performance_coordinator.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
