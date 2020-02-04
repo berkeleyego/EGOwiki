@@ -22,6 +22,11 @@
 [News](pages/news.md)
 [Download](pages/download.md)
 
+# Staff
+[Community Director](pages/staff/community_director.md)
+[Music Director](pages/staff/music_director.md)
+
+
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
