@@ -22,7 +22,7 @@
 [News](pages/news.md)
 [Download](pages/download.md)
 
-[Menu Item 1]()
+[Staff]()
 
   * # Directors
   * [Community](pages/community_director.md)
